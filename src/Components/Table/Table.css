@@ -1,0 +1,62 @@
+
+
+    table{
+        border-spacing: 0ch;
+    }
+
+    .Icon:hover {
+        border-color: aqua;
+    }
+
+    .data:hover {
+        border-color: aqua;
+    }
+
+   .data{
+    width: fit-content;
+    height:70px;
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid white;
+  }
+
+  .dataNotEditable{
+    width: fit-content;
+    height:70px;
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid white;
+  }
+
+  .Icon{
+    width: 30px;
+    height:70px;
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid white;
+  }
+
+  .IconWithNoHint{
+    width: 30px;
+    height:70px;
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid white;
+  }
+
+  .datahint{
+    width: fit-content;
+    height:70px;
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid aqua;
+  }
+
+  .Iconhint{
+    width: 30px;
+    height:70px;
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid aqua;
+  }
+  
